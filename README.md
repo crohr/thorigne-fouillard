@@ -2,6 +2,13 @@
 
 Projet de travail local pour récupérer, transcrire, résumer et analyser les vidéos des conseils municipaux de la ville de Thorigné-Fouillard à partir de leur chaîne YouTube.
 
+## Analyses disponibles
+
+- [Synthèse tensions / consensus](synthese-tensions-et-consensus.md)
+- [Index des séances par niveau de conflit](index-seances-par-niveau-de-conflit.md)
+- [Tableau par thèmes](THEMES.md)
+- [Dossier des transcripts et résumés par séance](data/conseils-municipaux/videos/)
+
 ## Contenu du dépôt
 
 - `scripts/summarize-council-videos.mjs`: batch Node qui découvre les vidéos de la chaîne, appelle `summarize` et stocke les résultats localement
@@ -72,13 +79,7 @@ Exemple:
 - [`data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/summary.md`](data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/summary.md)
 - [`data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/transcript.txt`](data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/transcript.txt)
 
-## Analyses disponibles
-
-- [Synthèse tensions / consensus](synthese-tensions-et-consensus.md)
-- [Index des séances par niveau de conflit](index-seances-par-niveau-de-conflit.md)
-- [Tableau par thèmes](THEMES.md)
-
 ## Notes
 
+- Les transcriptions, résumés et analyses de ce dépôt sont générés par IA. Ils permettent de parcourir rapidement le corpus, mais doivent être revérifiés à partir des vidéos sources et des documents officiels si un point précis compte.
 - Le codage politique des séances est une synthèse à partir des résumés, pas une qualification juridique de chaque vote.
-- Deux vidéos datées de mars 2026 apparaissent dans le corpus alors que la date courante de travail était le 13 mars 2026; elles sont donc à relire avec prudence.
