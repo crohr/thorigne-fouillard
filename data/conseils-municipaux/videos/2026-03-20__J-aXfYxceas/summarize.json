@@ -1,0 +1,115 @@
+{
+  "input": {
+    "kind": "url",
+    "url": "https://www.youtube.com/watch?v=J-aXfYxceas",
+    "timeoutMs": 120000,
+    "youtube": "auto",
+    "firecrawl": "auto",
+    "format": "markdown",
+    "markdown": "off",
+    "timestamps": false,
+    "length": {
+      "kind": "preset",
+      "preset": "long"
+    },
+    "maxOutputTokens": null,
+    "model": "cli/codex/gpt-5.4",
+    "language": {
+      "mode": "fixed",
+      "tag": "fr",
+      "label": "French"
+    }
+  },
+  "env": {
+    "hasXaiKey": false,
+    "hasOpenAIKey": false,
+    "hasOpenRouterKey": false,
+    "hasApifyToken": false,
+    "hasFirecrawlKey": false,
+    "hasGoogleKey": false,
+    "hasAnthropicKey": false
+  },
+  "extracted": {
+    "url": "https://www.youtube.com/watch?v=J-aXfYxceas",
+    "title": "Conseil Municipal - Vendredi 20 Mars 2026 à 20h30",
+    "description": "Conseil Municipal de Thorigné-Fouillard du Vendredi 20 Mars 2026 à 20h30",
+    "siteName": "YouTube",
+    "content": "Conseil Municipal de Thorigné-Fouillard du Vendredi 20 Mars 2026 à 20h30",
+    "truncated": false,
+    "totalCharacters": 72,
+    "wordCount": 11,
+    "transcriptCharacters": null,
+    "transcriptLines": null,
+    "transcriptWordCount": null,
+    "transcriptSource": "unavailable",
+    "transcriptionProvider": null,
+    "transcriptMetadata": {
+      "provider": "youtube",
+      "reason": "no_transcript_available"
+    },
+    "transcriptSegments": null,
+    "transcriptTimedText": null,
+    "mediaDurationSeconds": null,
+    "video": {
+      "kind": "youtube",
+      "url": "https://www.youtube.com/watch?v=J-aXfYxceas"
+    },
+    "isVideoOnly": true,
+    "diagnostics": {
+      "strategy": "html",
+      "firecrawl": {
+        "attempted": false,
+        "used": false,
+        "cacheMode": "default",
+        "cacheStatus": "unknown",
+        "notes": null
+      },
+      "markdown": {
+        "requested": false,
+        "used": false,
+        "provider": null,
+        "notes": null
+      },
+      "transcript": {
+        "cacheMode": "default",
+        "cacheStatus": "miss",
+        "textProvided": false,
+        "provider": "unavailable",
+        "attemptedProviders": [
+          "captionTracks",
+          "unavailable"
+        ],
+        "notes": null
+      }
+    }
+  },
+  "slides": null,
+  "prompt": "<instructions>\nHard rules: never mention sponsor/ads; use straight quotation marks only (no curly quotes).\nApostrophes in contractions are OK.\nYou summarize online videos for curious Twitter users who want to know whether the clip is worth watching.\nOmit sponsor messages, ads, promos, and calls-to-action (including podcast ad reads), even if they appear in the transcript or slide timeline. Do not mention or acknowledge them, and do not say you skipped or ignored anything. Avoid sponsor/ad/promo language, brand names like Squarespace, or CTA phrases like discount code. Treat them as if they do not exist. If a slide segment is purely sponsor/ad content, leave that slide marker with no text.\nWrite a detailed summary that prioritizes the most important points first, followed by key supporting facts or events, then secondary details or conclusions stated in the source.\nParagraphs are optional; use up to 3 short paragraphs. Aim for 2-4 sentences per paragraph when you split into paragraphs.\nTarget length: around 4,200 characters (acceptable range 2,500-6,000). This is a soft guideline; prioritize clarity.\nExtracted content length: 72 characters. Hard limit: never exceed this length. If the requested length is larger, do not pad—finish early rather than adding filler.\nWrite the answer in French.\nKeep the response compact by avoiding blank lines between sentences or list items; use only the single newlines required by the formatting instructions.\nDo not use emojis, disclaimers, or speculation.\nWrite in direct, factual language.\nFormat the answer in Markdown and obey the length-specific formatting above.\nUse short paragraphs; use bullet lists only when they improve scanability; avoid rigid templates.\nInclude 1-2 short exact excerpts (max 25 words each) formatted as Markdown italics using single asterisks when there is a strong, non-sponsor line. Use straight quotation marks (no curly) as needed. If no suitable line exists, omit excerpts. Never include ad/sponsor/boilerplate excerpts and do not mention them.\nBase everything strictly on the provided content and never invent details.\nFinal check: remove any sponsor/ad references or mentions of skipping/ignoring content. Ensure excerpts (if any) are italicized and use only straight quotes.\nFinal check for slides: every [slide:N] must be immediately followed by a line that starts with \"## \". Remove any \"Title:\" or \"Slide\" label lines.\nYou are not given any quotes from people who shared this link. Do not fabricate reactions or add a \"What sharers are saying\" subsection.\n</instructions>\n\n<context>\nSource URL: https://www.youtube.com/watch?v=J-aXfYxceas\nPage name: Conseil Municipal - Vendredi 20 Mars 2026 à 20h30\nSite: YouTube\nPage description: Conseil Municipal de Thorigné-Fouillard du Vendredi 20 Mars 2026 à 20h30\n</context>\n\n<content>\nConseil Municipal de Thorigné-Fouillard du Vendredi 20 Mars 2026 à 20h30\n</content>\n",
+  "llm": {
+    "provider": "cli",
+    "model": "cli/codex/gpt-5.4",
+    "maxCompletionTokens": null,
+    "strategy": "single"
+  },
+  "metrics": {
+    "llm": [
+      {
+        "provider": "cli",
+        "model": "cli/codex/gpt-5.4",
+        "calls": 1,
+        "promptTokens": 12840,
+        "completionTokens": 533,
+        "totalTokens": 13373
+      }
+    ],
+    "services": {
+      "firecrawl": {
+        "requests": 0
+      },
+      "apify": {
+        "requests": 0
+      }
+    }
+  },
+  "summary": "Video du conseil municipal de Thorigne-Fouillard du 20 mars 2026."
+}
