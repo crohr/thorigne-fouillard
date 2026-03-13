@@ -27,10 +27,10 @@ Les désaccords portent surtout sur:
 
 Références les plus nettes:
 
-- [2021-10-12__F8Jb96dfa08/summary.md](videos/2021-10-12__F8Jb96dfa08/summary.md): affrontement direct sur la DUP et l'enquête parcellaire pour la ZAC multisites
-- [2022-12-12__KhGXhIAdeTk/summary.md](videos/2022-12-12__KhGXhIAdeTk/summary.md): préemption du 5 allée du Marché, ViaSilva, Porte de Tizé, accusation de "chèque en blanc"
-- [2024-06-03__Soak_yz0njo/summary.md](videos/2024-06-03__Soak_yz0njo/summary.md): opposition sur les achats fonciers, les prix, la transparence et le spectre de l'expropriation
-- [2025-06-30__jD0DlPXuAcQ/summary.md](videos/2025-06-30__jD0DlPXuAcQ/summary.md): point culminant sur le dossier de création et de réalisation modificatif de la ZAC multisite
+- [2021-10-12__F8Jb96dfa08/summary.md](data/conseils-municipaux/videos/2021-10-12__F8Jb96dfa08/summary.md): affrontement direct sur la DUP et l'enquête parcellaire pour la ZAC multisites
+- [2022-12-12__KhGXhIAdeTk/summary.md](data/conseils-municipaux/videos/2022-12-12__KhGXhIAdeTk/summary.md): préemption du 5 allée du Marché, ViaSilva, Porte de Tizé, accusation de "chèque en blanc"
+- [2024-06-03__Soak_yz0njo/summary.md](data/conseils-municipaux/videos/2024-06-03__Soak_yz0njo/summary.md): opposition sur les achats fonciers, les prix, la transparence et le spectre de l'expropriation
+- [2025-06-30__jD0DlPXuAcQ/summary.md](data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/summary.md): point culminant sur le dossier de création et de réalisation modificatif de la ZAC multisite
 
 Conclusion: le désaccord de fond n'est pas seulement technique. Il porte sur la vision de ville, la méthode foncière et la confiance dans les outils d'aménagement.
 
@@ -46,11 +46,11 @@ Les points récurrents:
 
 Références:
 
-- [2021-03-22__OJ7nUVeGoVU/summary.md](videos/2021-03-22__OJ7nUVeGoVU/summary.md): budget 2021 + conflit sur les conditions d'accès aux documents
-- [2021-06-28__jP4JXmQsDPw/summary.md](videos/2021-06-28__jP4JXmQsDPw/summary.md): comptes, décision modificative, lisibilité financière des choix d'urbanisme
-- [2023-03-13__mtmKJRO357U/summary.md](videos/2023-03-13__mtmKJRO357U/summary.md): hausse d'impôts de 5 %, investissements jugés trop élevés
-- [2025-02-03__QJx3MeS0y-s/summary.md](videos/2025-02-03__QJx3MeS0y-s/summary.md): DOB 2025, critique de la prospective et des recettes reportées
-- [2025-11-17__GDkLEm5xiH4/summary.md](videos/2025-11-17__GDkLEm5xiH4/summary.md): décisions modificatives tardives et débat sur les recettes réellement encaissables
+- [2021-03-22__OJ7nUVeGoVU/summary.md](data/conseils-municipaux/videos/2021-03-22__OJ7nUVeGoVU/summary.md): budget 2021 + conflit sur les conditions d'accès aux documents
+- [2021-06-28__jP4JXmQsDPw/summary.md](data/conseils-municipaux/videos/2021-06-28__jP4JXmQsDPw/summary.md): comptes, décision modificative, lisibilité financière des choix d'urbanisme
+- [2023-03-13__mtmKJRO357U/summary.md](data/conseils-municipaux/videos/2023-03-13__mtmKJRO357U/summary.md): hausse d'impôts de 5 %, investissements jugés trop élevés
+- [2025-02-03__QJx3MeS0y-s/summary.md](data/conseils-municipaux/videos/2025-02-03__QJx3MeS0y-s/summary.md): DOB 2025, critique de la prospective et des recettes reportées
+- [2025-11-17__GDkLEm5xiH4/summary.md](data/conseils-municipaux/videos/2025-11-17__GDkLEm5xiH4/summary.md): décisions modificatives tardives et débat sur les recettes réellement encaissables
 
 Conclusion: la ligne de fracture n'est pas "dépenser ou non", mais "à quel rythme, sur quelles priorités, avec quelle robustesse budgétaire".
 
@@ -66,11 +66,11 @@ Les cas les plus nets:
 
 Références:
 
-- [2022-12-12__KhGXhIAdeTk/summary.md](videos/2022-12-12__KhGXhIAdeTk/summary.md): refus de voter des études sans programme détaillé
-- [2024-03-11__Ep3gUgchPLY/summary.md](videos/2024-03-11__Ep3gUgchPLY/summary.md): vote contre sur les lots du complexe 3 raquettes
-- [2024-10-07__LbHQyVEfw0E/summary.md](videos/2024-10-07__LbHQyVEfw0E/summary.md): abstentions sur la salle de billard, jugée non prioritaire
-- [2025-02-03__QJx3MeS0y-s/summary.md](videos/2025-02-03__QJx3MeS0y-s/summary.md): affrontement fort sur le mode de gestion du padel
-- [2025-11-17__GDkLEm5xiH4/summary.md](videos/2025-11-17__GDkLEm5xiH4/summary.md): coût final des 3 raquettes devenu sujet politique à part entière
+- [2022-12-12__KhGXhIAdeTk/summary.md](data/conseils-municipaux/videos/2022-12-12__KhGXhIAdeTk/summary.md): refus de voter des études sans programme détaillé
+- [2024-03-11__Ep3gUgchPLY/summary.md](data/conseils-municipaux/videos/2024-03-11__Ep3gUgchPLY/summary.md): vote contre sur les lots du complexe 3 raquettes
+- [2024-10-07__LbHQyVEfw0E/summary.md](data/conseils-municipaux/videos/2024-10-07__LbHQyVEfw0E/summary.md): abstentions sur la salle de billard, jugée non prioritaire
+- [2025-02-03__QJx3MeS0y-s/summary.md](data/conseils-municipaux/videos/2025-02-03__QJx3MeS0y-s/summary.md): affrontement fort sur le mode de gestion du padel
+- [2025-11-17__GDkLEm5xiH4/summary.md](data/conseils-municipaux/videos/2025-11-17__GDkLEm5xiH4/summary.md): coût final des 3 raquettes devenu sujet politique à part entière
 
 Conclusion: le conflit porte moins sur l'existence de besoins d'équipement que sur l'ordre des priorités, le coût final et la méthode de décision.
 
@@ -87,10 +87,10 @@ Les reproches récurrents de l'opposition:
 
 Références:
 
-- [2020-05-27__C6wXzntiELo/summary.md](videos/2020-05-27__C6wXzntiELo/summary.md): opposition contre l'étendue des délégations au maire
-- [2020-06-16__Aqz3eBK2NAU/summary.md](videos/2020-06-16__Aqz3eBK2NAU/summary.md): débat sur la place de l'opposition dans l'organisation municipale
-- [2021-03-22__OJ7nUVeGoVU/summary.md](videos/2021-03-22__OJ7nUVeGoVU/summary.md): accès aux documents
-- [2022-12-12__KhGXhIAdeTk/summary.md](videos/2022-12-12__KhGXhIAdeTk/summary.md): contestation du PV et conflit sur la "transparence"
+- [2020-05-27__C6wXzntiELo/summary.md](data/conseils-municipaux/videos/2020-05-27__C6wXzntiELo/summary.md): opposition contre l'étendue des délégations au maire
+- [2020-06-16__Aqz3eBK2NAU/summary.md](data/conseils-municipaux/videos/2020-06-16__Aqz3eBK2NAU/summary.md): débat sur la place de l'opposition dans l'organisation municipale
+- [2021-03-22__OJ7nUVeGoVU/summary.md](data/conseils-municipaux/videos/2021-03-22__OJ7nUVeGoVU/summary.md): accès aux documents
+- [2022-12-12__KhGXhIAdeTk/summary.md](data/conseils-municipaux/videos/2022-12-12__KhGXhIAdeTk/summary.md): contestation du PV et conflit sur la "transparence"
 
 Conclusion: même hors grands projets, la qualité du débat municipal lui-même est un sujet de désaccord durable.
 
@@ -104,9 +104,9 @@ Sur le social, il y a moins de conflits idéologiques massifs, mais plusieurs d�
 
 Références:
 
-- [2021-10-12__F8Jb96dfa08/summary.md](videos/2021-10-12__F8Jb96dfa08/summary.md): consensus sur l'analyse des besoins sociaux, mais tension ensuite sur la ZAC
-- [2022-12-12__KhGXhIAdeTk/summary.md](videos/2022-12-12__KhGXhIAdeTk/summary.md): débat sur la subvention au CCAS et les études EHPAD
-- [2025-11-17__GDkLEm5xiH4/summary.md](videos/2025-11-17__GDkLEm5xiH4/summary.md): débat sur les logements d'urgence, la laïcité et l'échelle de gestion
+- [2021-10-12__F8Jb96dfa08/summary.md](data/conseils-municipaux/videos/2021-10-12__F8Jb96dfa08/summary.md): consensus sur l'analyse des besoins sociaux, mais tension ensuite sur la ZAC
+- [2022-12-12__KhGXhIAdeTk/summary.md](data/conseils-municipaux/videos/2022-12-12__KhGXhIAdeTk/summary.md): débat sur la subvention au CCAS et les études EHPAD
+- [2025-11-17__GDkLEm5xiH4/summary.md](data/conseils-municipaux/videos/2025-11-17__GDkLEm5xiH4/summary.md): débat sur les logements d'urgence, la laïcité et l'échelle de gestion
 
 Conclusion: ces sujets sont discutés, mais ils semblent moins structurants politiquement que l'urbanisme ou les investissements.
 
@@ -125,9 +125,9 @@ Ce sont les points qui passent le plus souvent à l'unanimité ou avec très peu
 
 Références:
 
-- [2022-12-12__KhGXhIAdeTk/summary.md](videos/2022-12-12__KhGXhIAdeTk/summary.md): plusieurs délibérations votées à l'unanimité
-- [2024-12-09__iPLHJcmUCu0/summary.md](videos/2024-12-09__iPLHJcmUCu0/summary.md): longue série de mesures de gestion courante presque toutes unanimes
-- [2025-11-17__GDkLEm5xiH4/summary.md](videos/2025-11-17__GDkLEm5xiH4/summary.md): "le reste du conseil est plus fluide et largement consensuel"
+- [2022-12-12__KhGXhIAdeTk/summary.md](data/conseils-municipaux/videos/2022-12-12__KhGXhIAdeTk/summary.md): plusieurs délibérations votées à l'unanimité
+- [2024-12-09__iPLHJcmUCu0/summary.md](data/conseils-municipaux/videos/2024-12-09__iPLHJcmUCu0/summary.md): longue série de mesures de gestion courante presque toutes unanimes
+- [2025-11-17__GDkLEm5xiH4/summary.md](data/conseils-municipaux/videos/2025-11-17__GDkLEm5xiH4/summary.md): "le reste du conseil est plus fluide et largement consensuel"
 
 ### 2. Une bonne partie de la vie associative et culturelle, sauf quand la méthode est contestée
 
@@ -147,9 +147,9 @@ Les tensions apparaissent surtout:
 
 Références:
 
-- [2021-03-22__OJ7nUVeGoVU/summary.md](videos/2021-03-22__OJ7nUVeGoVU/summary.md): débat sur les subventions associatives
-- [2021-06-28__jP4JXmQsDPw/summary.md](videos/2021-06-28__jP4JXmQsDPw/summary.md): accusation de clientélisme sur des subventions exceptionnelles
-- [2024-12-09__iPLHJcmUCu0/summary.md](videos/2024-12-09__iPLHJcmUCu0/summary.md): convention avec le Conseil de la vie associative, 7 abstentions sur la confidentialité
+- [2021-03-22__OJ7nUVeGoVU/summary.md](data/conseils-municipaux/videos/2021-03-22__OJ7nUVeGoVU/summary.md): débat sur les subventions associatives
+- [2021-06-28__jP4JXmQsDPw/summary.md](data/conseils-municipaux/videos/2021-06-28__jP4JXmQsDPw/summary.md): accusation de clientélisme sur des subventions exceptionnelles
+- [2024-12-09__iPLHJcmUCu0/summary.md](data/conseils-municipaux/videos/2024-12-09__iPLHJcmUCu0/summary.md): convention avec le Conseil de la vie associative, 7 abstentions sur la confidentialité
 
 ### 3. Les sujets purement procéduraux ou institutionnels
 
@@ -157,8 +157,8 @@ Les séances très procédurales semblent peu conflictuelles, sauf au tout débu
 
 Références:
 
-- [2020-07-10__5T4ZfdnY8SQ/summary.md](videos/2020-07-10__5T4ZfdnY8SQ/summary.md): élection des délégués sénatoriaux, séance très administrative
-- [2020-05-27__C6wXzntiELo/summary.md](videos/2020-05-27__C6wXzntiELo/summary.md): installation du conseil, seul vrai point de friction sur les délégations
+- [2020-07-10__5T4ZfdnY8SQ/summary.md](data/conseils-municipaux/videos/2020-07-10__5T4ZfdnY8SQ/summary.md): élection des délégués sénatoriaux, séance très administrative
+- [2020-05-27__C6wXzntiELo/summary.md](data/conseils-municipaux/videos/2020-05-27__C6wXzntiELo/summary.md): installation du conseil, seul vrai point de friction sur les délégations
 
 ### 4. Certains projets, une fois le principe admis, finissent par devenir consensuels
 
@@ -171,8 +171,8 @@ Plusieurs dossiers sont d'abord discutés, puis votés plus largement une fois l
 
 Références:
 
-- [2024-10-07__LbHQyVEfw0E/summary.md](videos/2024-10-07__LbHQyVEfw0E/summary.md): PLH adopté à l'unanimité
-- [2025-06-30__jD0DlPXuAcQ/summary.md](videos/2025-06-30__jD0DlPXuAcQ/summary.md): maîtrise d'oeuvre EHPAD votée à l'unanimité malgré des doutes
+- [2024-10-07__LbHQyVEfw0E/summary.md](data/conseils-municipaux/videos/2024-10-07__LbHQyVEfw0E/summary.md): PLH adopté à l'unanimité
+- [2025-06-30__jD0DlPXuAcQ/summary.md](data/conseils-municipaux/videos/2025-06-30__jD0DlPXuAcQ/summary.md): maîtrise d'oeuvre EHPAD votée à l'unanimité malgré des doutes
 
 ## Lecture d'ensemble
 
