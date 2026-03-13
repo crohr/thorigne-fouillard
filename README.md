@@ -7,6 +7,14 @@ Projet de travail local pour récupérer, transcrire, résumer et analyser les v
 - [Synthèse tensions / consensus](synthese-tensions-et-consensus.md)
 - [Index des séances par niveau de conflit](index-seances-par-niveau-de-conflit.md)
 - [Tableau par thèmes](THEMES.md)
+- [Dossiers thématiques détaillés](themes/README.md)
+- [Historique du Bistroc](themes/bistroc.md)
+- [Urbanisme, foncier et ZAC multisite](themes/urbanisme-zac-multisite.md)
+- [Budget et investissements](themes/budget-et-investissements.md)
+- [Gouvernance et transparence](themes/gouvernance-et-transparence.md)
+- [Social, CCAS, EHPAD et logements d'urgence](themes/social-ccas-ehpad-logements.md)
+- [Trois raquettes et padel](themes/trois-raquettes-et-padel.md)
+- [Historique de la salle de billard](themes/salle-de-billard.md)
 - [Dossier des transcripts et résumés par séance](data/conseils-municipaux/videos/)
 
 ## Contenu du dépôt
@@ -17,6 +25,7 @@ Projet de travail local pour récupérer, transcrire, résumer et analyser les v
 - `synthese-tensions-et-consensus.md`: synthèse narrative des grands points de friction et de consensus
 - `index-seances-par-niveau-de-conflit.md`: codage de chaque séance en `consensuel`, `abstentions`, `conflit ouvert`
 - `THEMES.md`: synthèse par grand thème
+- `themes/`: dossiers thématiques détaillés par sujet
 
 ## Prérequis
 
